@@ -2,7 +2,7 @@
 
 ```
 NodeJs version 6x
-Gulp 3x
+Gulp version 3x
 ```
 
 ### To run in dev environment
