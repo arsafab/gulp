@@ -1,3 +1,10 @@
+### Prerequisite
+
+```
+NodeJs version 6x
+Gulp 3x
+```
+
 ### To run in dev environment
 
 ```
